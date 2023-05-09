@@ -1,0 +1,15 @@
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.csproj.AssemblyReference.cache
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.AssemblyInfoInputs.cache
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.AssemblyInfo.cs
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.csproj.CoreCompileInputs.cache
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\bin\Debug\net7.0\ex022_HerancaEPolimorfismo.exe
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\bin\Debug\net7.0\ex022_HerancaEPolimorfismo.deps.json
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\bin\Debug\net7.0\ex022_HerancaEPolimorfismo.runtimeconfig.json
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\bin\Debug\net7.0\ex022_HerancaEPolimorfismo.dll
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\bin\Debug\net7.0\ex022_HerancaEPolimorfismo.pdb
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.dll
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\refint\ex022_HerancaEPolimorfismo.dll
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.pdb
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ex022_HerancaEPolimorfismo.genruntimeconfig.cache
+H:\repos\Udemy\C# - POO\ex022_HerancaEPolimorfismo\obj\Debug\net7.0\ref\ex022_HerancaEPolimorfismo.dll

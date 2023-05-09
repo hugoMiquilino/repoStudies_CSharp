@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ex022_HerancaEPolimorfismo/1.0.0": {
+        "runtime": {
+          "ex022_HerancaEPolimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex022_HerancaEPolimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
